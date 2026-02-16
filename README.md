@@ -365,3 +365,7 @@ MIT License - свободное использование и модифика�
 [⬆ Вернуться наверх](#-laptop-hosting-panel)
 
 </div>
+
+# laptop-hosting-panel
+hosting panel 
+
